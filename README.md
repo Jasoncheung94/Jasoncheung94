@@ -8,7 +8,7 @@
 
 
 --- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jasoncheung94&show_icons=true&locale=en" alt="jasoncheung94" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jasoncheung94&show_icons=true&locale=en&count_private=true" alt="jasoncheung94" /></p>
 <p>&nbsp;<img align="center" height=195 src="https://github-readme-stats.vercel.app/api/top-langs?username=jasoncheung94&show_icons=true&locale=en&layout=compact" alt="jasoncheung94" /></p>  
 
 
