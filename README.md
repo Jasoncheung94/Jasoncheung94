@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-💻 Software Developer 3 at [Teamwork](https://www.teamwork.com/)
+💻 Software Developer
 
 🌱 Learning web technologies(eg. Node + React), Kubernetes, AWS, and Elasticsearch
 
